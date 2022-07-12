@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Record1 default De-escalate Case</name>
+        <parent_macroponent display_value="Record">da6711532fa011109317d3f62799b6e6</parent_macroponent>
+        <source_da display_value="De-escalate Case">d4bed3ae77233010035592e57b5a9906</source_da>
+        <source_element_id>ui_action_bar</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-12 21:07:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d977d1532fa011109317d3f62799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record1 default De-escalate Case</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CSM Configurable Workspace" source="sn_csm_wrkspc">1fadec2e771a10102c30945caa106130</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_d977d1532fa011109317d3f62799b6b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-12 21:07:58</sys_updated_on>
+        <target_event display_value="RECORD#OPEN_MODAL">509663140f0310107d20409dc4767e00</target_event>
+        <target_payload_mapping>{&#13;
+    "type": "MAP_CONTAINER",&#13;
+    "container": {&#13;
+      "route": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "route"&#13;
+          ]&#13;
+        }&#13;
+      },&#13;
+      "fields": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "fields"&#13;
+          ]&#13;
+        }&#13;
+      },&#13;
+      "params": {&#13;
+        "type": "EVENT_PAYLOAD_BINDING",&#13;
+        "binding": {&#13;
+          "address": [&#13;
+            "params"&#13;
+          ]&#13;
+        }&#13;
+      }&#13;
+    }&#13;
+  }</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>
