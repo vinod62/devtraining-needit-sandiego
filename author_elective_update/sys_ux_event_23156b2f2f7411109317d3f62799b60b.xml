@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>GENERATE_QUERY_AND_TITLE</event_name>
+        <interfaces/>
+        <label>Generate query and title</label>
+        <props>[]</props>
+        <required_translations>[ ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 12:21:05</sys_created_on>
+        <sys_id>23156b2f2f7411109317d3f62799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generate query and title</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_event_23156b2f2f7411109317d3f62799b60b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 12:21:05</sys_updated_on>
+    </sys_ux_event>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>03bc20fcdb4d2b48b2e05d00cf9619fc</instance_id>
+        <instance_name>dev72635</instance_name>
+        <name>sys_ux_event_23156b2f2f7411109317d3f62799b60b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>GENERATE_QUERY_AND_TITLE</event_name><interfaces/><label>Generate query and title</label><props>[]</props><required_translations>[ ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-26 12:21:05</sys_created_on><sys_id>23156b2f2f7411109317d3f62799b60b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Generate query and title</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_event_23156b2f2f7411109317d3f62799b60b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-26 12:21:05</sys_updated_on></sys_ux_event></record_update>]]></payload>
+        <payload_hash>-1525095212</payload_hash>
+        <record_name>Generate query and title</record_name>
+        <reverted_from/>
+        <source>5f365fa62f9811109317d3f62799b66c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 12:21:05</sys_created_on>
+        <sys_id>73156b2f2f7411109317d3f62799b60d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1823a74233b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 12:21:05</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>7b156b2f94741110c25da0d07ff74c0c</update_guid>
+        <update_guid_history>7b156b2f94741110c25da0d07ff74c0c:-1525095212</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-26 12:26:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>1c376a2c2bcb4e6aaba93513c63010c4</sys_id>
+        <sys_metadata>23156b2f2f7411109317d3f62799b60b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generate query and title</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_event_23156b2f2f7411109317d3f62799b60b</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_23156b2f2f7411109317d3f62799b60b">73156b2f2f7411109317d3f62799b60d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-26 12:26:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
